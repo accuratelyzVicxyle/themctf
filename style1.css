@@ -6,18 +6,16 @@
 
 @font-face {
   font-family: "THEM Terminal";
-  src: url("../fonts/sf-mono/SFMonoRegular.otf") format("opentype");
+  src: url("https://raw.githubusercontent.com/supercomputra/SF-Mono-Font/master/SFMono-Regular.otf") format("opentype");
   font-style: normal;
   font-weight: 400;
-  font-display: swap;
 }
 
 @font-face {
   font-family: "THEM Terminal";
-  src: url("../fonts/sf-mono/SFMonoRegularItalic.otf") format("opentype");
+  src: url("https://raw.githubusercontent.com/supercomputra/SF-Mono-Font/master/SFMono-RegularItalic.otf") format("opentype");
   font-style: italic;
   font-weight: 400;
-  font-display: swap;
 }
 
 :root {
